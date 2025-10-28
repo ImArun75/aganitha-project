@@ -17,6 +17,7 @@ A responsive React application that lets users search for books using the Open L
 
 ## 📁 Folder Structure
 
+---
 book-finder/
 ├── public/
 │   └── index.html
