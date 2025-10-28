@@ -1,6 +1,6 @@
 # 📚 Book Finder App
 
-A responsive React application that lets users search for books using the Open Library API. Built with plain `.js` files (no JSX), custom CSS styling, and real-world UI features like background image, scroll-to-top button, and loading spinner.
+A responsive React application that lets users search for books using the Open Library API. Built with plain `.js`, custom CSS styling, and real-world UI features like background image, scroll-to-top button, and loading spinner.
 
 ---
 
