@@ -18,18 +18,19 @@ A responsive React application that lets users search for books using the Open L
 ## 📁 Folder Structure
 
 ```
-book-finder/
-├── public/
-│   └── index.html
-├── src/
-│   ├── App.js
-│   ├── SearchBar.js
-│   ├── BookCard.js
-│   ├── Loader.js
-│   ├── style.css
-│   └── index.js
-├── README.md
-
+src/
+├── components/
+│   ├── BookCard/
+│   │   ├── index.css
+│   │   └── index.js
+│   └── SearchBar/
+│       ├── index.css
+│       └── index.js
+├── App.css
+├── App.js
+├── App.test.js
+├── index.css
+└── index.js
 
 ```
 
